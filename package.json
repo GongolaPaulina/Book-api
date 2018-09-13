@@ -17,11 +17,18 @@
     "eslint-plugin-prettier": "^2.6.2",
     "eslint-plugin-react": "^7.11.1",
     "nodemon": "^1.18.4",
-    "prettier": "^1.14.2"
+    "prettier": "^1.14.2",
+    "ws": "3.3.2"
   },
   "dependencies": {
+    "bcrypt": "^3.0.0",
+    "bluebird": "^3.5.2",
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
     "eslint": "^5.5.0",
     "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.13",
     "path": "^0.12.7",
     "react": "^16.4.2"
   }
